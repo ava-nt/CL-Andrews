@@ -5,13 +5,14 @@
 
 body {
   background-image: url("../img/webback1.png");
-  width: 90%;}
+  width: 90%;
+  height: 100%;}
 
 header { height: 140px;}
 
   
 
-.landing-wrap {position: relative; left: 75px; bottom: 20px;}
+.landing-wrap {position: relative; left: 75px; bottom: 20px; padding: 1px;}
 
 h1 {
   font-family: 'Calligraffitti', cursive;
